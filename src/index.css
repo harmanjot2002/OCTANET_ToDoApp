@@ -27,7 +27,8 @@ html {
 }
 .main-div {
   min-height: 100vh;
-  background: #2c2f58;
+/*   background: #2c2f58; */
+  background-image:url(bg.jpg);
   display: flex;
   justify-content: center;
   /* align-items: center; */
